@@ -1,25 +1,43 @@
-# Социальные сети и Медиа
-instagram.com
-facebook.com
-fbcdn.net
-twitter.com
-twimg.com
-tiktok.com
-spotify.com
+# AI & Dev
+.openai.com
+.chatgpt.com
+.claude.ai
+.google.com
+.googleapis.com
+.github.com
+.githubcopilot.com
+.codeium.com
+.jetbrains.com
+.elevenlabs.io
+.intel.com
+.dell.com
+.nvidia.com
 
-# Мессенджеры и связь
-discord.com
-discord.gg
+# Media & Social
+.instagram.com
+.facebook.com
+.proton.me
+.protonmail.com
+.tiktok.com
+.spotify.com
+.truthsocial.com
+.grok.com
+.x.ai
+.tidal.com
+.bing.com
+.microsoft.com
+.xboxlive.com
 
-# Инструменты и Сервисы
-openai.com
-chatgpt.com
-claude.ai
-notion.so
-github.com 
-raw.githubusercontent.com
+# Tools & Services
+.notion.so
+.canva.com
+.archive.org
+.parsec.app
+.onetrust.com
+.squareup.com
 
-# Почта
-proton.me
-protonmail.com
-e-hentai.org
+# Gaming
+.supercell.com
+.clashroyaleapp.com
+.clashofclans.com
+.brawlstarsgame.com
